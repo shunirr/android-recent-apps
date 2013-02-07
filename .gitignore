@@ -1,0 +1,25 @@
+# cache files
+.metadata
+.DS_Store
+*.swp
+
+# work files
+classes/
+gen/
+bin/
+obj/
+out/
+proguard/
+tmp/
+
+# local settings
+*.ipr
+*.iws
+.idea/
+.settings
+local.properties
+*.keystore
+
+# 
+!.git*
+
